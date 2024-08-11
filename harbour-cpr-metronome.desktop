@@ -1,9 +1,9 @@
 [Desktop Entry]
 Type=Application
 X-Nemo-Application-Type=silica-qt5
-Icon=cpr-metronome
-Exec=sailfish-qml cpr-metronome
-Name=cpr-metronome
+Icon=harbour-cpr-metronome
+Exec=sailfish-qml harbour-cpr-metronome
+Name=CPR Metronome
 # translation example:
 # your app name in German locale (de)
 #
