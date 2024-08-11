@@ -15,6 +15,6 @@ Name[de]=cpr-metronome
 # Replace with your organization as a reverse domain name
 OrganizationName=org.myorg
 # ApplicationName does not have to be identical to Name
-ApplicationName=cpr-metronome
+ApplicationName=harbour-cpr-metronome
 # Add the required permissions here
-Permissions=
+Permissions=Audio
