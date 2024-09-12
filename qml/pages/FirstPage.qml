@@ -7,7 +7,7 @@ import Nemo.KeepAlive 1.2
 Page {
     id: cpr_metronome
 
-    allowedOrientations: Orientation.All
+    allowedOrientations: Orientation.Portrait
 
     property int currentBeat: 0
     property int elapsed_time: 0

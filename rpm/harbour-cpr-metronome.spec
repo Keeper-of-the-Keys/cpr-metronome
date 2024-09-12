@@ -1,7 +1,7 @@
 Name:       harbour-cpr-metronome
 
 Summary:    CPR Metronome
-Version:    0.1
+Version:    0.2
 Release:    1
 License:    LICENSE
 BuildArch:  noarch
